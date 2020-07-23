@@ -27,3 +27,19 @@
     margin: 0px;
     color: black;
 }
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
+/*.navbar{
+    padding-bottom: 25px;
+    font-size: 22px;
+}
+.container{
+    font-size: 22px;
+}
+*/
