@@ -1,0 +1,9 @@
+{
+	"name": "hassanadffactory",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "337d0b26-c8fe-4f20-b62a-b057d4c13bf6",
+		"tenantId": "443aa0c2-c0df-4f37-80f8-e8442cbf9f84"
+	}
+}
